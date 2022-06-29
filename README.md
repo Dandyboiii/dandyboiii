@@ -1,7 +1,7 @@
 ```py
 
------------------------------------ dandyboi -----------------------------------
-
+----------------------------------- dandyboi -----------------------------------```
+```
 .o000000Okd:.      .dKKK0o.    ;OKKKx,. ,kK00o. :O000000Oxc'  .o000x,   cO0O;
 .OMMMN00XWMW0c.   .oNMMMMX:    cNMMMW0:.:KMMMk. lWMMWKOKWMMXo. .kWMW0;.lNMNl.
 .OMMMk'.,kWMMXc. .;KMNXWMWk.   cNMMWMWKlc0MMMk. lWMMX: .lXMMWx. .dNMMKONMXl
@@ -10,10 +10,11 @@
 .OMMMO,.:OWMMXl.'OMWx. .kMMWx. cNMNc .xWMMMMMk. lWMMXc.'dNMMWd.    cNMMK;
 .kMMMWXXNMMNO:..dWMX:   :XMMNc cNMNc  .dNMMMMk. lWMMWXKNWMWKl.     cNMMK;    XWWk
 .lkkkkkkkdl;.  .oOko'   .lkkkl.,xkx,  ..lkkkkc. ;xkkkkkkxo:.       ,xkkd.    xkkl
-
+```
+```py
 --------------------------- dandy.inquiries@gmail.com ---------------------------
-
-
+```py
+```
 Originating from Jämtland, Sweden
 Graduated from Heritage High in Lynchburg, VA
 
