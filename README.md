@@ -1,31 +1,5 @@
-```
------------------------------------ dandyboi -----------------------------------
+![Banner](https://i.ibb.co/9GJ54HC/dandyboi-Banner-Rounded.png)
 
-.o000000Okd:.      .dKKK0o.    ;OKKKx,. ,kK00o. :O000000Oxc'  .o000x,   cO0O;
-.OMMMN00XWMW0c.   .oNMMMMX:    cNMMMW0:.:KMMMk. lWMMWKOKWMMXo. .kWMW0;.lNMNl.
-.OMMMk'.,kWMMXc. .;KMNXWMWk.   cNMMWMWKlc0MMMk. lWMMX: .lXMMWx. .dNMMKONMXl
-.OMMMk.  ;KMMMO'.'kWMk:OMMNl   cNMW0KMMXk0MMMk. lWMMX;  .xMMMK,  .oNMMMMXc
-.OMMMk.  :XMMMk. :XMX: cNMMK,  cNMNl;OWMWWMMMk. lWMMX;  .kMMMK,    oWMMNc
-.OMMMO,.:OWMMXl.'OMWx. .kMMWx. cNMNc .xWMMMMMk. lWMMXc.'dNMMWd.    cNMMK;
-.kMMMWXXNMMNO:..dWMX:   :XMMNc cNMNc  .dNMMMMk. lWMMWXKNWMWKl.     cNMMK;    XWWk
-.lkkkkkkkdl;.  .oOko'   .lkkkl.,xkx,  ..lkkkkc. ;xkkkkkkxo:.       ,xkkd.    xkkl
+Hello there, I'm Dandyboi, but you can call me Michael. I'm from Jämtland, Sweden.
 
---------------------------- dandy.inquiries@gmail.com ---------------------------
-
-Michael Hussein Gustafson
-Originating from Jämtland, Sweden
-Graduated from Heritage High in Lynchburg, VA
-
-Spoken Languages: English, Swedish, Spanish, and German
-Preferred Language: English or Swedish
-
-Coding Languages: JS, HTML, CSS, Python, Lua
-Preferred Language: JS/HTML
-
-Proficiencies: Blender, JExcel, Desmos, ID3, EXIF
-
-Unrelated Hobbies: Rollerskating, hiking, and music creation
-Tech Hobbies: Decompiling data, graphing and plotting data
-```
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)
+I speak English, Swedish, Spanish, and German. I typically write my code in JS, HTML, CSS, Python, and Lua. I do a little BASIC on the side with my Commodore machines.I occasionally dabble in Blender, JExcel, and Desmos, and I also enjoy modifying ID3 and EXIF data. I enjoy studying the decompiling of data and files, as well as studying the graphing and plotting of data.
