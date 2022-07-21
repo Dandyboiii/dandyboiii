@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/9GJ54HC/dandyboi-Banner-Rounded.png)
+<img src="https://i.imgur.com/jzCPVHE.png"/>
 
 Hello there, I'm Dandyboi, but you can call me Michael. I'm from Jämtland, Sweden.
 
